@@ -54,11 +54,12 @@ int e= c^b; //10 = 1010 = ~ 0101 since its an int it will store 32 bit rest all 
 int f= a&b;
 int g = c | (a ^ a);
 int h= ~e; //5
+int i= a |b;
 System.out.println(d);
 System.out.println(e);
 System.out.println(f);
 System.out.println(g);
-System.out.println(h); // op =-11  ask*/
+System.out.println(i); // op =-11  ask*/
 //testing git
 
 //unary operator and not operator
