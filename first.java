@@ -55,11 +55,16 @@ int f= a&b;
 int g = c | (a ^ a);
 int h= ~e; //5
 int i= a |b;
+int j= 8>>3;
+int k= b<<3;
 System.out.println(d);
 System.out.println(e);
 System.out.println(f);
 System.out.println(g);
-System.out.println(i); // op =-11  ask*/
+System.out.println(h); // op =-11  ask*/
+System.out.println(i);
+System.out.println(j);
+System.out.println(k);
 //testing git
 
 //unary operator and not operator
